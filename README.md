@@ -5,6 +5,7 @@
 - Cursando Sistemas para Internet
 - Estou aprendendo Java <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 - Estou aprendendo PHP <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+- Gosto de trabalhar em Designs UI/UX <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <div align="center">
   <a href="https://github.com/jospneto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jospneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
