@@ -2,7 +2,7 @@
 
 
 
-- Cursando Sistemas para Internet
+- Cursando Sistemas para Internet - Instituto Federal do Sertão Pernambucano <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/if/if-original.svg">
 - Estou aprendendo Java <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 - Estou aprendendo PHP <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 - Gosto de trabalhar em Designs UI/UX <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
