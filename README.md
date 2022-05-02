@@ -5,6 +5,7 @@
 - Cursando Sistemas para Internet - Instituto Federal do Sertão Pernambucano
 - Estou aprendendo Java <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 - Estou aprendendo PHP <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+- Estou aprendendo JavaScript <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 - Gosto de desenvolver protótipos de Designs UI/UX <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <div align="center">
   <a href="https://github.com/jospneto">
