@@ -2,11 +2,11 @@
 
 
 
-- Cursando Sistemas para Internet - Instituto Federal do Sertão Pernambucano
+- Tecnólogo em Sistemas para Internet - Instituto Federal do Sertão Pernambucano
 - Desenvolvedor front-end com expertise em React e ReactNative <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 - <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-- <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/typescript.svg">
-- <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/cypress.svg">
+- <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+- <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
 - Pós-graduado em Designs UI/UX <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <div align="center">
   <a href="https://github.com/jospneto">
