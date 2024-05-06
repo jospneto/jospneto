@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Tecnólogo em Sistemas para Internet.
 - 🎓 Pós-graduado em UX Design.
-- 💼 Trabalhando como Desenvolvedor FullStack e QA.
+- 💼 Trabalhando como Desenvolvedor Front-End e PO/PM.
 - 🌱 Aprendendo mais sobre NodeJS e Engenharia de Software.
 
 ## Minhas Skills
