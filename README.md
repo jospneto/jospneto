@@ -42,10 +42,6 @@
 
 <br/>
 
-<a href="https://github.com/jospneto" title="Perfil do Neto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jospneto&theme=merko&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-jospneto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jospneto/)](https://www.linkedin.com/in/jospneto/)
