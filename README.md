@@ -6,7 +6,7 @@
 - 🎓 Tecnólogo em Sistemas para Internet.
 - 🎓 Pós-graduado em UX Design.
 - 💼 Trabalhando como Desenvolvedor Front-End e PO/PM.
-- 🌱 Aprendendo mais sobre NodeJS e Engenharia de Software.
+- 🌱 Mestrando em Ciência da Computação.
 
 ## Minhas Skills
 
