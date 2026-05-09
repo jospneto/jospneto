@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Tecnólogo em Sistemas para Internet.
 - 🎓 Pós-graduado em UX Design.
-- 💼 Trabalhando como Desenvolvedor Front-End e PO/PM.
+- 💼 Engineering Lead | PM | PO | Front-end Developer
 - 🌱 Mestrando em Ciência da Computação.
 
 ## Minhas Skills
